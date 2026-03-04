@@ -1,10 +1,10 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is Yauheni Kazlouski's labrabota2 repo
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+**Kazlouski Yauheni 13 gr**.
 
 # Building
 
