@@ -1,11 +1,14 @@
-# Overview
+# Лабораторная работа 2. Задание 1
 
-It is Yauheni Kazlouski's labrabota2 repo
+## Overview
+Программа принимает строку как аргумент и выводит ее, после каждого символа добавляя его код
 
-# Usage
+## Author
+- **Имя:** Козловский Евгений
+- **Группа:** 13
 
-**Kazlouski Yauheni 13 gr**.
-
-# Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+## Usage
+### Сборка и запуск
+```bash
+make build    # собрать программу
+make clean    # очистить объектные и исполняемые файлы
