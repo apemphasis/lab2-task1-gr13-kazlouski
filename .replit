@@ -1,2 +1,5 @@
 language = "c"
-run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr13-kazlouski/src/main.c"
+run = "make build"
+
+[agent]
+expertMode = true
