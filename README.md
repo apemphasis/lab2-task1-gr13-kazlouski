@@ -1,11 +1,14 @@
-# Overview
+# Лабораторная работа 2. Задание 1
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+## Overview
+Программа принимает строку как аргумент и выводит ее, после каждого символа добавляя его код
 
-# Usage
+## Author
+- **Имя:** Козловский Евгений
+- **Группа:** 13
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
-
-# Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+## Usage
+### Сборка и запуск
+```bash
+make build    # собрать программу
+make clean    # очистить объектные и исполняемые файлы
