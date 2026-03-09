@@ -10,7 +10,7 @@
 ## Usage
 Необходимо передать строку как параметр командной строки
 ```bash
-./labrabota2-1 "your string"
+./bin/labrabota2-1 "your string"
 ```
 
 ## Building
